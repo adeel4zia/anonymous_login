@@ -1,0 +1,7 @@
+name = Anonymous login
+description = Specify pages that when visited by anonymous users will be forced to login
+backdrop = 1.x
+type = module
+package = Anonymous login
+configure = admin/config/system/anonymous-login
+version = 7.x-1.5
