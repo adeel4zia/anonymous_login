@@ -1,1 +1,6 @@
-
+{
+  "_config_name": "anonymous_login.settings",
+  "anonymous_login_paths": "",
+  "anonymous_login_message": "",
+  "anonymous_login_page_path": "user/login"
+}
